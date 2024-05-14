@@ -68,8 +68,8 @@ html , body{
 }
 #header #bottom #left-side img{
     margin-top: .3vw;
-    width: 11.5vw;
-    height: 4vw;
+    width: 11vw;
+    height: 3.5vw;
 }
 #header #bottom #left-side{
     display: flex;
